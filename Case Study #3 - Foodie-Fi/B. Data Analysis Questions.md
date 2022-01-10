@@ -88,3 +88,7 @@ WHERE EXTRACT(YEAR from start_date) = '2020'
 ```
 
 <img src="https://user-images.githubusercontent.com/49824841/148816455-c0d91e4c-167f-40a4-9896-bcd9fc15ef5a.png" width="100" height="50">
+
+----------
+
+here's my solution for [C. Challenge Payment Question](https://github.com/gayatriayu/8_Week_SQL_Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/C.%20Challenge%20Payment%20Question.md)
