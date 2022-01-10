@@ -4,14 +4,14 @@
 <img src="https://user-images.githubusercontent.com/49824841/148691830-bd82ed17-c644-44da-8a32-2b05e2df0aa6.png" width="450" height="450">
 
 ## 📄 Table of Contents
-- Introduction
-- Dataset
-- Entity Relationship Diagram
-- Case Study Questions
+- [Introduction](https://github.com/gayatriayu/8_Week_SQL_Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#introduction)
+- [Dataset](https://github.com/gayatriayu/8_Week_SQL_Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#dataset)
+- [Entity Relationship Diagram](https://github.com/gayatriayu/8_Week_SQL_Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#entity-relationship-diagram)
+- [Case Study Questions](https://github.com/gayatriayu/8_Week_SQL_Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#entity-relationship-diagram)
 - Solution
-  - A. Customer Journey
-  - B. Data Analysis Questions
-  - C. Challenge Payment Question
+  - [A. Customer Journey](https://github.com/gayatriayu/8_Week_SQL_Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#a-customer-journey)
+  - [B. Data Analysis Questions](https://github.com/gayatriayu/8_Week_SQL_Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#b-data-analysis-questions)
+  - [C. Challenge Payment Question](https://github.com/gayatriayu/8_Week_SQL_Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi#c-challenge-payment-question)
 
 ----------
 
