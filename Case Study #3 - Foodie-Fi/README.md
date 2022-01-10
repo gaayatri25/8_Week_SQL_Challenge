@@ -38,7 +38,7 @@ When customers cancel their Foodie-Fi service, they will have a `churn` plan rec
 
 Tabel 2: **`subscriptions`**
 
-<img src="https://user-images.githubusercontent.com/49824841/148730105-a6a49103-5474-41ef-abfb-4c67d533313f.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/49824841/148743395-f888fc47-2f1c-4631-9956-f9f1f8f12e3b.png" width="250" height="600">
 
 Customer subscriptions show the exact date where their specific `plan_id` starts.
 
