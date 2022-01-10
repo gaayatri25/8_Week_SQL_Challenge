@@ -91,4 +91,4 @@ WHERE EXTRACT(YEAR from start_date) = '2020'
 
 ----------
 
-here's my solution for [C. Challenge Payment Question](https://github.com/gayatriayu/8_Week_SQL_Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/C.%20Challenge%20Payment%20Question.md)
+here's my solution for [C. Challenge Payment Question](https://github.com/gayatriayu/8_Week_SQL_Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi/C.%20Challenge%20Payment%20Question.md)✨
