@@ -32,14 +32,14 @@ ORDER BY FIELD(months,'January','February','March','April','May',
 ``Answer:``
 
 ```MYSQL
-SELECT plan_id, COUNT(*) AS events_2020
+SELECT plan_id, COUNT(*) AS events_2021
 FROM subscriptions
-WHERE EXTRACT(YEAR FROM start_date) >= '2020'
+WHERE EXTRACT(YEAR FROM start_date) >= '2021-01-01'
 GROUP BY plan_id
 ORDER BY plan_id
 ```
 
-<img src="https://user-images.githubusercontent.com/49824841/148811855-6be3acc1-25ca-41a4-b3f6-edcc235f6496.png" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/49824841/158630208-d5ccd0a1-eec3-44d7-b57b-a681c2097714.png" width="180" height="150">
 
 #### 4. What is the customer count and percentage of customers who have churned rounded to 1 decimal place?
 
