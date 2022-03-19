@@ -11,23 +11,4 @@ The Foodie-Fi team wants you to create a new ``payments`` table for the year 202
 
 ``Answer:``
 
-1. Create table ``payments`` :
-
-``` MYSQL
-CREATE TABLE payments
-AS ( SELECT s.customer_id, s.plan_id, p.plan_name, s.start_date AS payment_date, p.price AS amount, 
-ROW_NUMBER() OVER(PARTITION BY customer_id ) AS payment_order
-FROM subscriptions s
-JOIN plans p
-ON s.plan_id = p.plan_id
-WHERE s.plan_id NOT IN (0,4))
-```
-
-2. Select from table ``payments``  :
-
-``` MYSQL
-SELECT *
-FROM payments
-```
-
 <img src="https://user-images.githubusercontent.com/49824841/148819455-c66df529-c54f-4ce9-88bf-ca1e2acd7d05.png" width="350" height="350">
